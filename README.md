@@ -1,3 +1,3 @@
 # Real-Time-Embedded-Systems
 
-Using STM32 series
+Using STM32F303 Discovery Board 

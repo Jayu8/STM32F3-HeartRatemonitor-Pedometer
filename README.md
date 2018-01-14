@@ -1,6 +1,6 @@
 # Real-Time-Embedded-Systems
 
-The following objectives are satisfied using the STM32F303 Discovery Board.
+The following objectives were satisfied using the STM32F303 Discovery Board.
 
 1. Counting the number of steps taken using an internally-connected ACCELEROMETER 
 2. Measuring the Heart-Rate using an externally-connected PULSE-SENSOR.
